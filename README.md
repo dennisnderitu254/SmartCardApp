@@ -8,11 +8,9 @@ It allows for card number ,owner name and month and year of expiry.It then valid
 
 It is responsive and created using ES6,HTML5 and CSS3
 
-Visa Card Screenshot
 ![Visa](https://user-images.githubusercontent.com/13285377/62776054-2b9a7a80-bab2-11e9-842e-aeda9bd31b5f.PNG)
 
 
-MasterCard Screenshot
 ![mastercard](https://user-images.githubusercontent.com/13285377/62775961-e8d8a280-bab1-11e9-9a51-1e6c8f12f423.PNG)
 
 
